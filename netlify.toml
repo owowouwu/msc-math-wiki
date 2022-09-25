@@ -4,9 +4,9 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Click to view my notes"
+LANDING_BUTTON = "Click to view my notes 🙈"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "This is a work in progress."
+LANDING_DESCRIPTION = "Hopefully this grows into something nice and presentable 🐒."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "__Index"
 # (Optional) Site title on landing page
@@ -15,7 +15,7 @@ PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/owowouwu/msc-math-wiki"
 # (Optional) Site title in navbar
-SITE_TITLE = "Someone's Second 🧠"
+SITE_TITLE = "A Grad Student's Second 🧠"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
