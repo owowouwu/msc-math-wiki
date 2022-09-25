@@ -4,39 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d9cd7475537d1786",
-        "type": "leaf",
-        "dimension": 18.26086956521739,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_Advanced Probability MOOC.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "57e737f9fe865b73",
-        "type": "leaf",
-        "dimension": 40.869565217391305,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/AdvProb17.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "3e41c5446b0e446e",
         "type": "leaf",
-        "dimension": 40.869565217391305,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Random Variables as a Hilbert Space.md",
+            "file": "home.md",
             "mode": "source",
             "source": false
           }
@@ -98,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Random Variables as a Hilbert Space.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +91,15 @@
   },
   "active": "3e41c5446b0e446e",
   "lastOpenFiles": [
+    "_Advanced Probability MOOC.md",
+    "home.md",
+    "Notes/AdvProb17.md",
+    "Notes/Random Variables as a Hilbert Space.md",
     "Notes/Lebesgue Measurable Spaces.md",
     "Notes/Conditional Expectation.md",
-    "_Advanced Probability MOOC.md",
-    "Notes/AdvProb17.md",
     "Notes/m-adic Topology.md",
     "Notes/AdvProbLecturesIndex.md",
     "_Metric and Hilbert Spaces MOOC.md",
-    "Notes/Abelian Group.md",
-    "Notes/Group.md",
-    "Notes/m-adic Uniformity.md"
+    "Notes/Abelian Group.md"
   ]
 }
