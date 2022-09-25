@@ -31,14 +31,14 @@ GANALYTICS = ""
 SLUGIFY = "y"
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
 HOME_GRAPH = "y"
-# (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
-PAGE_GRAPH = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.
 FOOTER = ""
 # (Optional, default main) Root section name.
 ROOT_SECTION_NAME = "main"
+# to fix math?
+STRICT_LINE_BREAKS=y
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
         {
