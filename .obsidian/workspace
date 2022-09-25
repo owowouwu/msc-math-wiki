@@ -7,8 +7,12 @@
         "id": "3e41c5446b0e446e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "__Index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "__Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,8 @@
   },
   "active": "3e41c5446b0e446e",
   "lastOpenFiles": [
+    "README.md",
+    "__Index.md",
     "_Index.md",
     "_Metric and Hilbert Spaces.md",
     "_Machine Learning.md",
@@ -91,8 +98,6 @@
     "Notes/Untitled.md",
     "_Advanced Probability.md",
     "Notes/AdvProb17.md",
-    "Notes/Random Variables as a Hilbert Space.md",
-    "Notes/Lebesgue Measurable Spaces.md",
-    "Notes/Conditional Expectation.md"
+    "Notes/Random Variables as a Hilbert Space.md"
   ]
 }
