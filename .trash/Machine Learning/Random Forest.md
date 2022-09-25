@@ -1,0 +1,1 @@
+Random forest uses [[Ensemble Learning]], more specifically bagging to aggregate multiple deicision trees together.

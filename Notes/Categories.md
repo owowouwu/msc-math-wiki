@@ -1,0 +1,1 @@
+Categories have **objects** and **morphisms**, the latter of which is used to compare objects.

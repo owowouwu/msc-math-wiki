@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "195ef8553daf139c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9cd7475537d1786",
+        "type": "leaf",
+        "dimension": 18.26086956521739,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Advanced Probability MOOC.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "57e737f9fe865b73",
+        "type": "leaf",
+        "dimension": 40.869565217391305,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/AdvProb17.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3e41c5446b0e446e",
+        "type": "leaf",
+        "dimension": 40.869565217391305,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Random Variables as a Hilbert Space.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d113fe48e81404f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3094c39019e7e5f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "776977b5e40a6105",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3ea8fe6b3a7b6cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sesquili",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.00000190734863,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b469458c700e4e79",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6f9d1a8fa0d2ba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d383dbc95e54a2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Random Variables as a Hilbert Space.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3e41c5446b0e446e",
+  "lastOpenFiles": [
+    "Notes/Lebesgue Measurable Spaces.md",
+    "Notes/Conditional Expectation.md",
+    "_Advanced Probability MOOC.md",
+    "Notes/AdvProb17.md",
+    "Notes/m-adic Topology.md",
+    "Notes/AdvProbLecturesIndex.md",
+    "_Metric and Hilbert Spaces MOOC.md",
+    "Notes/Abelian Group.md",
+    "Notes/Group.md",
+    "Notes/m-adic Uniformity.md"
+  ]
+}
